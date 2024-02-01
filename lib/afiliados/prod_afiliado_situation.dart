@@ -1,0 +1,1 @@
+enum ProdAfiliadoSituation { VENDAS, CHECKOUT }

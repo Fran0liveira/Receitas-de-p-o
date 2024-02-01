@@ -1,0 +1,1 @@
+enum CrudOperation { CREATE, UPDATE }

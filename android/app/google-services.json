@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946864003586",
+    "project_id": "receitas-de-paes-32bae",
+    "storage_bucket": "receitas-de-paes-32bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946864003586:android:b1decfa4a4320f249f651b",
+        "android_client_info": {
+          "package_name": "com.ksoft.receitas_de_pao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnX_c9aagfr2yL1hgH-J-tYUZCT8rrPOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
